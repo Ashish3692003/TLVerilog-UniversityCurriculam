@@ -13,4 +13,4 @@ This folder contains digital circuit examples implemented in TL-Verilog (.tlv), 
 
 | File | Description | Source |
 |------|-------------|--------|
-| `and_gate.tlv` | 2-input AND gate with randomised inputs, Makerchip-compatible | Original |
+| *(examples will be added here)* | | |
